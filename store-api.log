@@ -1,0 +1,414 @@
+2021-09-06T18:23:57.370Z [store-api.log] error POST  - Name, CPF, Phone, Email, e Adress são obrigatórios!
+2021-09-06T19:12:35.056Z [store-api.log] error POST  - loggers is not defined
+2021-09-06T19:29:38.040Z [store-api.log] error POST  - loggers is not defined
+2021-09-06T19:57:52.451Z [store-api.log] info GET /client
+2021-09-06T19:59:22.406Z [store-api.log] info GET /client
+2021-09-06T19:59:28.787Z [store-api.log] info GET /client
+2021-09-06T19:59:59.009Z [store-api.log] info GET /client
+2021-09-06T20:00:01.634Z [store-api.log] info GET /client
+2021-09-06T20:01:15.340Z [store-api.log] info GET /client
+2021-09-06T20:05:59.004Z [store-api.log] error GET  - ClientRepository.getClient is not a function
+2021-09-06T20:05:59.246Z [store-api.log] error GET  - ClientRepository.getClient is not a function
+2021-09-06T20:06:42.582Z [store-api.log] error GET  - ClientRepository.getClient is not a function
+2021-09-06T20:07:22.011Z [store-api.log] error GET  - ClientRepository.getClient is not a function
+2021-09-06T20:07:50.347Z [store-api.log] error GET  - ClientRepository.getClient is not a function
+2021-09-06T20:07:51.200Z [store-api.log] error GET  - ClientRepository.getClient is not a function
+2021-09-06T20:07:51.797Z [store-api.log] error GET  - ClientRepository.getClient is not a function
+2021-09-06T20:07:52.015Z [store-api.log] error GET  - ClientRepository.getClient is not a function
+2021-09-06T20:07:52.237Z [store-api.log] error GET  - ClientRepository.getClient is not a function
+2021-09-06T20:07:52.421Z [store-api.log] error GET  - ClientRepository.getClient is not a function
+2021-09-06T20:07:52.627Z [store-api.log] error GET  - ClientRepository.getClient is not a function
+2021-09-06T20:07:52.800Z [store-api.log] error GET  - ClientRepository.getClient is not a function
+2021-09-06T20:08:28.756Z [store-api.log] info GET /clients
+2021-09-06T20:08:51.646Z [store-api.log] info GET /clients
+2021-09-06T20:08:54.882Z [store-api.log] info GET /clients
+2021-09-06T20:08:55.992Z [store-api.log] info GET /clients
+2021-09-06T20:10:32.880Z [store-api.log] info GET /clients
+2021-09-06T20:10:41.484Z [store-api.log] info GET /clients
+2021-09-06T20:10:45.868Z [store-api.log] info GET /clients
+2021-09-06T20:10:48.201Z [store-api.log] info GET /clients
+2021-09-06T20:10:51.563Z [store-api.log] info GET /clients
+2021-09-06T20:10:55.167Z [store-api.log] info GET /clients
+2021-09-06T20:11:00.921Z [store-api.log] info GET /clients
+2021-09-06T20:23:34.626Z [store-api.log] info GET /clients
+2021-09-06T20:23:36.922Z [store-api.log] info GET /client
+2021-09-06T20:23:51.143Z [store-api.log] info DELETE /clients
+2021-09-06T20:24:13.752Z [store-api.log] info GET /client
+2021-09-06T20:24:16.018Z [store-api.log] info GET /client
+2021-09-06T20:24:30.174Z [store-api.log] info GET /clients
+2021-09-06T20:24:35.064Z [store-api.log] info DELETE /clients
+2021-09-06T20:24:35.868Z [store-api.log] info DELETE /clients
+2021-09-06T20:24:40.029Z [store-api.log] info GET /client
+2021-09-06T20:25:22.270Z [store-api.log] info DELETE /clients
+2021-09-06T20:25:27.640Z [store-api.log] info GET /client
+2021-09-06T20:25:31.581Z [store-api.log] info GET /client
+2021-09-06T20:25:34.839Z [store-api.log] info GET /client
+2021-09-06T20:26:13.783Z [store-api.log] error DELETE  - id is not defined
+2021-09-06T20:26:27.364Z [store-api.log] error DELETE  - syntax error at or near "*"
+2021-09-06T20:27:17.832Z [store-api.log] info DELETE /clients
+2021-09-06T20:27:20.663Z [store-api.log] info GET /client
+2021-09-06T20:27:22.743Z [store-api.log] info GET /client
+2021-09-06T21:05:46.620Z [store-api.log] info GET /client
+2021-09-06T21:09:38.923Z [store-api.log] info GET /client
+2021-09-06T21:09:43.747Z [store-api.log] info GET /clients
+2021-09-06T21:09:47.667Z [store-api.log] info GET /clients
+2021-09-06T21:09:51.309Z [store-api.log] info GET /client
+2021-09-06T21:10:03.374Z [store-api.log] info DELETE /clients
+2021-09-06T21:10:06.143Z [store-api.log] info GET /client
+2021-09-06T21:21:00.746Z [store-api.log] error POST  - loggers is not defined
+2021-09-06T21:21:17.423Z [store-api.log] error PUT  - Client ID,Name, CPF, Phone, Email, e Adress são obrigatórios!
+2021-09-06T21:21:30.495Z [store-api.log] error PUT  - syntax error at or near "RETURN"
+2021-09-06T21:21:45.816Z [store-api.log] error PUT  - syntax error at or near "RETURN"
+2021-09-06T21:22:32.252Z [store-api.log] error PUT  - loggers is not defined
+2021-09-06T21:22:55.778Z [store-api.log] error PUT  - loggers is not defined
+2021-09-06T21:23:07.753Z [store-api.log] error POST  - loggers is not defined
+2021-09-06T21:23:13.271Z [store-api.log] info GET /clients
+2021-09-06T21:23:16.329Z [store-api.log] info GET /clients
+2021-09-06T21:23:19.454Z [store-api.log] info GET /client
+2021-09-06T21:24:04.865Z [store-api.log] error PUT  - loggers is not defined
+2021-09-06T21:24:21.608Z [store-api.log] error PUT  - loggers is not defined
+2021-09-06T21:25:00.996Z [store-api.log] error PUT  - loggers is not defined
+2021-09-06T21:25:36.657Z [store-api.log] error PUT  - loggers is not defined
+2021-09-06T21:27:31.574Z [store-api.log] error PUT  - column "address" of relation "clients" does not exist
+2021-09-06T21:28:23.157Z [store-api.log] error PUT  - loggers is not defined
+2021-09-06T21:28:34.541Z [store-api.log] error PUT  - loggers is not defined
+2021-09-06T21:29:12.122Z [store-api.log] error POST  - loggers is not defined
+2021-09-06T21:29:16.726Z [store-api.log] error POST  - loggers is not defined
+2021-09-06T21:29:42.129Z [store-api.log] error POST  - loggers is not defined
+2021-09-06T21:30:09.224Z [store-api.log] error POST  - loggers is not defined
+2021-09-06T21:30:17.395Z [store-api.log] error POST  - loggers is not defined
+2021-09-06T21:31:31.749Z [store-api.log] error POST  - loggers is not defined
+2021-09-06T21:31:48.674Z [store-api.log] error POST  - Name, CPF, Phone, Email, e Adress são obrigatórios!
+2021-09-06T21:32:21.734Z [store-api.log] error POST  - loggers is not defined
+2021-09-06T21:32:46.296Z [store-api.log] error POST  - loggers is not defined
+2021-09-06T21:33:59.881Z [store-api.log] error POST  - loggers is not defined
+2021-09-06T21:34:46.636Z [store-api.log] error POST  - loggers is not defined
+2021-09-06T21:36:16.587Z [store-api.log] error POST  - loggers is not defined
+2021-09-06T21:36:22.510Z [store-api.log] error POST  - loggers is not defined
+2021-09-06T21:36:24.738Z [store-api.log] error POST  - loggers is not defined
+2021-09-06T21:38:58.444Z [store-api.log] error POST  - loggers is not defined
+2021-09-06T21:41:28.966Z [store-api.log] info POST /client - [{"client_id":19,"name":"Joaõzin","cpf":"23585112352","phone":"3138383636","email":"joão@gmail.com","adress":"Rua y, n 190"}]
+2021-09-06T21:41:36.422Z [store-api.log] info PUT /client - undefined
+2021-09-06T21:41:59.140Z [store-api.log] info POST /client - [{"client_id":20,"name":"Joaõzin","cpf":"23585112352","phone":"3138383636","email":"joão@gmail.com","adress":"Rua y, n 190"}]
+2021-09-06T21:42:39.689Z [store-api.log] info POST /client - [{"client_id":21,"name":"Joaõzin","cpf":"23585112352","phone":"3138383636","email":"joão@gmail.com","adress":"Rua y, n 190"}]
+2021-09-06T21:44:46.576Z [store-api.log] info POST /client - [{"client_id":22,"name":"Joaõzin","cpf":"23585112352","phone":"3138383636","email":"joão@gmail.com","adress":"Rua y, n 190"}]
+2021-09-06T21:44:51.376Z [store-api.log] info PUT /client - undefined
+2021-09-06T21:45:25.146Z [store-api.log] info PUT /client - [{"client_id":23,"name":"João","cpf":"23585112352","phone":"3138383636","email":"joão@gmail.com","adress":"Rua y, n 190"}]
+2021-09-06T21:46:10.692Z [store-api.log] info POST /client - [{"client_id":24,"name":"João","cpf":"23585112352","phone":"3138383636","email":"joão@gmail.com","adress":"Rua y, n 190"}]
+2021-09-07T18:19:55.217Z [store-api.log] info DELETE /clients
+2021-09-07T18:20:00.114Z [store-api.log] info DELETE /clients
+2021-09-07T18:20:04.107Z [store-api.log] info DELETE /clients
+2021-09-07T18:20:08.185Z [store-api.log] info DELETE /clients
+2021-09-07T18:20:11.272Z [store-api.log] info DELETE /clients
+2021-09-07T18:20:13.468Z [store-api.log] info DELETE /clients
+2021-09-07T18:20:17.156Z [store-api.log] info DELETE /clients
+2021-09-07T18:20:20.486Z [store-api.log] info DELETE /clients
+2021-09-07T18:20:23.449Z [store-api.log] info DELETE /clients
+2021-09-07T18:20:25.196Z [store-api.log] info DELETE /clients
+2021-09-07T18:20:28.526Z [store-api.log] info DELETE /clients
+2021-09-07T18:20:30.283Z [store-api.log] info DELETE /clients
+2021-09-07T18:20:31.920Z [store-api.log] info DELETE /clients
+2021-09-07T18:20:33.705Z [store-api.log] info DELETE /clients
+2021-09-07T18:20:35.491Z [store-api.log] info DELETE /clients
+2021-09-07T18:20:37.324Z [store-api.log] info DELETE /clients
+2021-09-07T18:20:39.216Z [store-api.log] info DELETE /clients
+2021-09-07T18:20:40.969Z [store-api.log] info DELETE /clients
+2021-09-07T18:20:44.330Z [store-api.log] info DELETE /clients
+2021-09-07T18:20:55.185Z [store-api.log] info DELETE /clients
+2021-09-07T18:20:57.206Z [store-api.log] info DELETE /clients
+2021-09-07T18:20:59.078Z [store-api.log] info DELETE /clients
+2021-09-07T18:21:01.269Z [store-api.log] info DELETE /clients
+2021-09-07T18:21:13.349Z [store-api.log] info GET /client
+2021-09-07T18:21:15.462Z [store-api.log] info GET /clients
+2021-09-07T18:21:17.492Z [store-api.log] info GET /client
+2021-09-07T18:21:24.608Z [store-api.log] info POST /client - [{"client_id":25,"name":"Joaõzin","cpf":"23585112352","phone":"3138383636","email":"joão@gmail.com","adress":"Rua y, n 190"}]
+2021-09-07T23:34:09.873Z [store-api.log] info POST /supplier - [{"supplier_id":1,"name":"Fornecedor Eletrônico","cnpj":"23585112352123","phone":"31383836123","email":"eletronica@gmail.com","adress":"Rua xyz, n 10"}]
+2021-09-07T23:36:55.310Z [store-api.log] info PUT /supplier - [{"supplier_id":2,"name":"Fornecedor Eletrônico LTDA","cnpj":"23585112352123","phone":"31383836123","email":"eletronica@gmail.com","adress":"Rua xyz, n 10"}]
+2021-09-07T23:37:23.855Z [store-api.log] error PUT  - Supplier ID,Name, CNPJ, Phone, Email, e Adress são obrigatórios!
+2021-09-07T23:38:38.495Z [store-api.log] info PUT /supplier - [{"supplier_id":3,"name":"Fornecedor Eletrônico LTDA","cnpj":"23585112352123","phone":"31383836123","email":"eletronica@gmail.com","adress":"Rua xyz, n 10"}]
+2021-09-07T23:40:20.416Z [store-api.log] info PUT /supplier - [{"supplier_id":4,"name":"Fornecedor Eletrônico LTDA","cnpj":"23585112352123","phone":"31383836123","email":"eletronica@gmail.com","adress":"Rua xyz, n 10"}]
+2021-09-07T23:41:10.919Z [store-api.log] info PUT /supplier - undefined
+2021-09-07T23:41:20.448Z [store-api.log] info PUT /supplier - undefined
+2021-09-07T23:41:31.662Z [store-api.log] info DELETE /clients
+2021-09-07T23:41:35.823Z [store-api.log] info DELETE /clients
+2021-09-07T23:41:40.507Z [store-api.log] info DELETE /clients
+2021-09-07T23:42:05.230Z [store-api.log] info PUT /supplier - undefined
+2021-09-07T23:42:12.835Z [store-api.log] info DELETE /suppliers
+2021-09-07T23:42:15.757Z [store-api.log] info DELETE /suppliers
+2021-09-07T23:42:20.078Z [store-api.log] info DELETE /suppliers
+2021-09-07T23:42:31.329Z [store-api.log] info PUT /supplier - undefined
+2021-09-07T23:45:32.349Z [store-api.log] info PUT /supplier - {"supplier_id":1,"name":"Fornecedor Eletrônico LTDA","cnpj":"23585112352123","phone":"31383836123","email":"eletronica@gmail.com","adress":"Rua xyz, n 10"}
+2021-09-08T16:44:15.594Z [store-api.log] error POST  - null value in column "stock" violates not-null constraint
+2021-09-08T16:44:34.947Z [store-api.log] error POST  - null value in column "stock" violates not-null constraint
+2021-09-08T16:48:16.252Z [store-api.log] error POST  - ProductRepository.insertProduct is not a function
+2021-09-08T16:48:48.612Z [store-api.log] error POST  - null value in column "stock" violates not-null constraint
+2021-09-08T16:50:17.515Z [store-api.log] error POST  - null value in column "stock" violates not-null constraint
+2021-09-08T16:50:26.634Z [store-api.log] error POST  - null value in column "stock" violates not-null constraint
+2021-09-08T16:51:20.366Z [store-api.log] info POST /product - [{"product_id":6,"supplier_id":1,"name":"Notebok Eletrônico","description":"Notebook Acer n5 R7","value":"5000","stock":100}]
+2021-09-08T16:53:37.218Z [store-api.log] info GET /products
+2021-09-08T16:53:41.161Z [store-api.log] info GET /products
+2021-09-08T16:54:04.817Z [store-api.log] error PUT  - Product ID,Name, Description, Value, Stock, e supplier_id são obrigatórios!
+2021-09-08T16:54:33.513Z [store-api.log] info PUT /product - {"product_id":6,"supplier_id":1,"name":"Notebok Acer Eletrônico","description":"Notebook Acer n5 R7","value":"5000","stock":100}
+2021-09-08T16:54:58.803Z [store-api.log] info GET /product
+2021-09-08T17:24:18.333Z [store-api.log] error POST  - Unexpected token } in JSON at position 122
+2021-09-08T17:24:28.066Z [store-api.log] error POST  - Unexpected token } in JSON at position 122
+2021-09-08T17:24:35.771Z [store-api.log] info POST /product - [{"product_id":7,"supplier_id":1,"name":"Notebok Eletrônico","description":"Notebook Acer n5 R7","value":"5000","stock":100}]
+2021-09-08T17:24:42.171Z [store-api.log] error POST  - insert or update on table "products" violates foreign key constraint "fk_suppliers"
+2021-09-08T17:29:16.454Z [store-api.log] info GET /products
+2021-09-08T17:29:41.993Z [store-api.log] info GET /products
+2021-09-08T17:29:47.167Z [store-api.log] info GET /products
+2021-09-08T17:29:51.216Z [store-api.log] info GET /products
+2021-09-08T17:30:22.760Z [store-api.log] error POST  - O supplier_id informado não existe.
+2021-09-08T17:31:19.596Z [store-api.log] info PUT /product - {"product_id":6,"supplier_id":1,"name":"Notebok Acer Eletrônico","description":"Notebook Acer n5 R7","value":"5000","stock":100}
+2021-09-08T17:31:25.326Z [store-api.log] error PUT  - O supplier_id informado não existe.
+2021-09-08T18:05:15.404Z [store-api.log] error POST  - insert or update on table "sales" violates foreign key constraint "fk_clients"
+2021-09-08T18:08:00.752Z [store-api.log] error POST  - Value, Date, client_id, product_id são obrigatórios!
+2021-09-08T18:08:10.140Z [store-api.log] error POST  - insert or update on table "sales" violates foreign key constraint "fk_clients"
+2021-09-08T18:09:19.906Z [store-api.log] error POST  - insert or update on table "sales" violates foreign key constraint "fk_clients"
+2021-09-08T18:10:41.860Z [store-api.log] error POST  - insert or update on table "sales" violates foreign key constraint "fk_clients"
+2021-09-08T18:10:45.138Z [store-api.log] error POST  - insert or update on table "sales" violates foreign key constraint "fk_clients"
+2021-09-08T18:10:49.302Z [store-api.log] error POST  - insert or update on table "sales" violates foreign key constraint "fk_clients"
+2021-09-08T18:11:22.702Z [store-api.log] info POST /sale - [{"sale_id":7,"client_id":25,"product_id":6,"value":"3500","date":"2021-01-01T03:00:00.000Z"}]
+2021-09-08T18:11:46.829Z [store-api.log] info GET /sale
+2021-09-08T18:12:00.012Z [store-api.log] info GET /sales
+2021-09-08T18:12:16.942Z [store-api.log] info GET /client
+2021-09-08T18:13:31.587Z [store-api.log] error PUT  - Sale_id, Value, Date, client_id, product_id são obrigatórios!
+2021-09-08T18:14:04.036Z [store-api.log] error PUT  - Sale_id, Value, Date, client_id, product_id são obrigatórios!
+2021-09-08T18:14:43.954Z [store-api.log] error PUT  - Sale_id, Value, Date, client_id, product_id são obrigatórios!
+2021-09-08T18:14:44.823Z [store-api.log] error PUT  - Sale_id, Value, Date, client_id, product_id são obrigatórios!
+2021-09-08T18:15:59.449Z [store-api.log] error PUT  - Sale_id, Value, Date, client_id, product_id são obrigatórios!
+2021-09-08T18:16:53.997Z [store-api.log] error PUT  - Sale_id, Value, Date, client_id, product_id são obrigatórios!
+2021-09-08T18:16:57.352Z [store-api.log] error PUT  - Sale_id, Value, Date, client_id, product_id são obrigatórios!
+2021-09-08T18:17:07.777Z [store-api.log] error PUT  - Sale_id, Value, Date, client_id, product_id são obrigatórios!
+2021-09-08T18:17:31.679Z [store-api.log] error PUT  - Sale_id, Value, Date, client_id, product_id são obrigatórios!
+2021-09-08T18:18:17.936Z [store-api.log] info PUT /sale - {"sale_id":7,"client_id":25,"product_id":6,"value":"3550","date":"2021-01-01T03:00:00.000Z"}
+2021-09-08T18:25:00.420Z [store-api.log] error POST  - Cannot read property 'client_id' of undefined
+2021-09-08T18:25:11.518Z [store-api.log] error POST  - Cannot read property 'client_id' of undefined
+2021-09-08T18:25:21.126Z [store-api.log] error POST  - Cannot read property 'client_id' of undefined
+2021-09-08T18:25:25.258Z [store-api.log] error POST  - Cannot read property 'client_id' of undefined
+2021-09-08T18:25:30.935Z [store-api.log] error POST  - Cannot read property 'client_id' of undefined
+2021-09-08T18:26:07.362Z [store-api.log] error POST  - Cannot read property 'client_id' of undefined
+2021-09-08T18:26:41.950Z [store-api.log] error POST  - Cannot read property 'client_id' of undefined
+2021-09-08T18:26:46.273Z [store-api.log] info GET /sale
+2021-09-08T18:26:55.755Z [store-api.log] info GET /sale
+2021-09-08T18:27:12.061Z [store-api.log] error POST  - Cannot read property 'client_id' of undefined
+2021-09-08T18:28:12.525Z [store-api.log] info POST /sale - [{"sale_id":8,"client_id":25,"product_id":7,"value":"3500","date":"2021-01-01T03:00:00.000Z"}]
+2021-09-08T18:28:27.201Z [store-api.log] error POST  - O Product_id informado, não existe.
+2021-09-08T18:28:40.226Z [store-api.log] error POST  - O client_id Informado, não existe.
+2021-09-08T18:31:27.198Z [store-api.log] error POST  - errors is not defined
+2021-09-08T18:31:32.080Z [store-api.log] error POST  - errors is not defined
+2021-09-08T18:32:02.032Z [store-api.log] error POST  - 
+2021-09-08T18:32:47.613Z [store-api.log] error POST  - 
+2021-09-08T18:32:53.493Z [store-api.log] error POST  - 
+2021-09-08T18:32:56.437Z [store-api.log] info GET /sales
+2021-09-08T18:33:12.219Z [store-api.log] error POST  - 
+2021-09-08T18:33:27.685Z [store-api.log] error POST  - 
+2021-09-08T18:34:18.414Z [store-api.log] info POST /sale - [{"sale_id":9,"client_id":25,"product_id":6,"value":"3500","date":"2021-01-01T03:00:00.000Z"}]
+2021-09-08T18:35:20.035Z [store-api.log] error POST  - 
+2021-09-08T18:41:45.271Z [store-api.log] info POST /sale - [{"sale_id":10,"client_id":25,"product_id":6,"value":"3500","date":"2021-01-01T03:00:00.000Z"}]
+2021-09-08T18:45:11.102Z [store-api.log] info PUT /sale - {"sale_id":7,"client_id":25,"product_id":6,"value":"3550","date":"2021-01-01T03:00:00.000Z"}
+2021-09-08T18:45:17.185Z [store-api.log] error PUT  - O client_id Informado, não existe.
+2021-09-08T18:45:24.359Z [store-api.log] info PUT /sale - {"sale_id":7,"client_id":25,"product_id":6,"value":"3550","date":"2021-01-01T03:00:00.000Z"}
+2021-09-08T18:56:06.152Z [store-api.log] info GET /product
+2021-09-08T18:57:11.761Z [store-api.log] error POST  - Cannot access 'sale' before initialization
+2021-09-08T18:57:54.998Z [store-api.log] info POST /sale - [{"sale_id":11,"client_id":25,"product_id":6,"value":"3500","date":"2021-01-01T03:00:00.000Z"}]
+2021-09-08T18:58:06.804Z [store-api.log] info GET /products
+2021-09-08T18:58:11.225Z [store-api.log] info GET /products
+2021-09-08T18:59:39.309Z [store-api.log] info POST /product - [{"product_id":9,"supplier_id":1,"name":"Teclado Gamer","description":"Ele tem muita luzinha","value":"450","stock":14}]
+2021-09-08T19:00:13.659Z [store-api.log] info GET /products
+2021-09-08T19:00:18.755Z [store-api.log] info GET /products
+2021-09-08T19:00:21.386Z [store-api.log] info GET /products
+2021-09-08T19:01:03.296Z [store-api.log] info POST /sale - [{"sale_id":12,"client_id":25,"product_id":9,"value":"450","date":"2021-01-01T03:00:00.000Z"}]
+2021-09-08T19:01:10.300Z [store-api.log] info GET /products
+2021-09-08T19:01:25.115Z [store-api.log] info POST /sale - [{"sale_id":13,"client_id":25,"product_id":9,"value":"450","date":"2021-01-01T03:00:00.000Z"}]
+2021-09-08T19:01:29.942Z [store-api.log] info GET /products
+2021-09-08T19:01:50.392Z [store-api.log] info POST /sale - [{"sale_id":14,"client_id":25,"product_id":9,"value":"450","date":"2021-01-01T03:00:00.000Z"}]
+2021-09-08T19:01:51.615Z [store-api.log] info POST /sale - [{"sale_id":15,"client_id":25,"product_id":9,"value":"450","date":"2021-01-01T03:00:00.000Z"}]
+2021-09-08T19:01:52.876Z [store-api.log] info POST /sale - [{"sale_id":16,"client_id":25,"product_id":9,"value":"450","date":"2021-01-01T03:00:00.000Z"}]
+2021-09-08T19:01:54.047Z [store-api.log] info POST /sale - [{"sale_id":17,"client_id":25,"product_id":9,"value":"450","date":"2021-01-01T03:00:00.000Z"}]
+2021-09-08T19:01:55.231Z [store-api.log] info POST /sale - [{"sale_id":18,"client_id":25,"product_id":9,"value":"450","date":"2021-01-01T03:00:00.000Z"}]
+2021-09-08T19:01:56.383Z [store-api.log] info POST /sale - [{"sale_id":19,"client_id":25,"product_id":9,"value":"450","date":"2021-01-01T03:00:00.000Z"}]
+2021-09-08T19:01:57.564Z [store-api.log] info POST /sale - [{"sale_id":20,"client_id":25,"product_id":9,"value":"450","date":"2021-01-01T03:00:00.000Z"}]
+2021-09-08T19:01:58.716Z [store-api.log] info POST /sale - [{"sale_id":21,"client_id":25,"product_id":9,"value":"450","date":"2021-01-01T03:00:00.000Z"}]
+2021-09-08T19:01:59.945Z [store-api.log] info POST /sale - [{"sale_id":22,"client_id":25,"product_id":9,"value":"450","date":"2021-01-01T03:00:00.000Z"}]
+2021-09-08T19:02:01.101Z [store-api.log] info POST /sale - [{"sale_id":23,"client_id":25,"product_id":9,"value":"450","date":"2021-01-01T03:00:00.000Z"}]
+2021-09-08T19:02:02.248Z [store-api.log] info POST /sale - [{"sale_id":24,"client_id":25,"product_id":9,"value":"450","date":"2021-01-01T03:00:00.000Z"}]
+2021-09-08T19:02:03.328Z [store-api.log] info POST /sale - [{"sale_id":25,"client_id":25,"product_id":9,"value":"450","date":"2021-01-01T03:00:00.000Z"}]
+2021-09-08T19:02:07.891Z [store-api.log] info GET /products
+2021-09-08T19:02:11.756Z [store-api.log] error POST  - O produto informado não possui em estoque.
+2021-09-08T19:08:26.409Z [store-api.log] error POST  - O produto informado não possui em estoque.
+2021-09-08T19:08:35.746Z [store-api.log] info GET /sale
+2021-09-08T19:08:43.662Z [store-api.log] info DELETE /sales
+2021-09-08T19:08:47.218Z [store-api.log] info DELETE /sales
+2021-09-08T19:08:49.766Z [store-api.log] info DELETE /sales
+2021-09-08T19:08:51.910Z [store-api.log] error DELETE  - O Id da sale informado não existe
+2021-09-08T19:08:56.997Z [store-api.log] info DELETE /sales
+2021-09-08T19:09:00.128Z [store-api.log] info DELETE /sales
+2021-09-08T19:09:02.468Z [store-api.log] info DELETE /sales
+2021-09-08T19:09:08.109Z [store-api.log] info GET /product
+2021-09-08T19:11:49.803Z [store-api.log] info GET /sale
+2021-09-08T19:11:57.107Z [store-api.log] info DELETE /sales
+2021-09-08T19:12:01.874Z [store-api.log] info GET /product
+2021-09-08T19:23:08.405Z [store-api.log] info GET /sale
+2021-09-08T19:23:31.450Z [store-api.log] info GET /sale
+2021-09-08T19:23:37.034Z [store-api.log] info GET /sale
+2021-09-08T19:23:40.516Z [store-api.log] info GET /sale
+2021-09-08T19:23:47.089Z [store-api.log] info GET /sale
+2021-09-08T19:23:53.041Z [store-api.log] info GET /sale
+2021-09-08T19:23:57.783Z [store-api.log] info GET /sale
+2021-09-12T20:06:42.427Z [store-api.log] error GET  - relation "products" does not exist
+2021-09-12T20:06:53.184Z [store-api.log] error GET  - relation "products" does not exist
+2021-09-12T21:46:13.781Z [store-api.log] error GET  - connect is not a function
+2021-09-12T21:46:29.131Z [store-api.log] error GET  - relation "clients" does not exist
+2021-09-12T21:47:13.630Z [store-api.log] error GET  - relation "clients" does not exist
+2021-09-12T21:47:22.989Z [store-api.log] error GET  - relation "clients" does not exist
+2021-09-12T21:49:07.463Z [store-api.log] error GET  - relation "clients" does not exist
+2021-09-12T21:50:27.602Z [store-api.log] error GET  - relation "clients" does not exist
+2021-09-12T21:50:41.064Z [store-api.log] error GET  - relation "clients" does not exist
+2021-09-12T21:52:57.981Z [store-api.log] info GET /client
+2021-09-12T21:53:38.759Z [store-api.log] info POST /client - {"clientId":26,"name":"Joaõzinnnnnn","cpf":"23585112352","phone":"3138383636","email":"joão@gmail.com","adress":"Rua y, n 190"}
+2021-09-12T21:53:55.081Z [store-api.log] error PUT  - WHERE parameter "client_id" has invalid "undefined" value
+2021-09-12T21:54:13.461Z [store-api.log] error PUT  - Client ID,Name, CPF, Phone, Email, e Adress são obrigatórios!
+2021-09-12T21:55:28.549Z [store-api.log] info PUT /client - {"clientId":26,"name":"João","cpf":"23585112352","phone":"3138383636","email":"joão@gmail.com","adress":"Rua y, n 190"}
+2021-09-12T21:56:27.023Z [store-api.log] info GET /client
+2021-09-12T21:56:32.868Z [store-api.log] info DELETE /clients
+2021-09-12T21:56:35.428Z [store-api.log] info GET /client
+2021-09-13T16:25:01.978Z [store-api.log] error GET  - column "cpf" does not exist
+2021-09-13T16:25:38.930Z [store-api.log] error GET  - column "cpf" does not exist
+2021-09-13T16:27:22.670Z [store-api.log] info GET /supplier
+2021-09-13T16:27:44.197Z [store-api.log] info POST /supplier - {"supplierId":5,"name":"Fornecedor Eletrônico J","cnpj":"23585112352123","phone":"31383836123","email":"eletronica@gmail.com","adress":"Rua xyaz, n 10"}
+2021-09-13T16:27:49.267Z [store-api.log] info GET /suppliers
+2021-09-13T16:27:58.728Z [store-api.log] error PUT  - WHERE parameter "supplier_id" has invalid "undefined" value
+2021-09-13T16:28:13.487Z [store-api.log] error PUT  - Supplier ID,Name, CNPJ, Phone, Email, e Adress são obrigatórios!
+2021-09-13T16:28:51.205Z [store-api.log] info PUT /supplier - {"supplierId":1,"name":"Fornecedor Eletrônico LTDA.","cnpj":"23585112352123","phone":"31383836123","email":"eletronica@gmail.com","adress":"Rua xyz, n 10"}
+2021-09-13T16:32:03.678Z [store-api.log] info DELETE /suppliers
+2021-09-13T16:32:06.643Z [store-api.log] info GET /supplier
+2021-09-13T16:37:30.965Z [store-api.log] error GET  - column "stocks" does not exist
+2021-09-13T16:38:09.697Z [store-api.log] info GET /product
+2021-09-13T16:38:19.949Z [store-api.log] error PUT  - Product ID,Name, Description, Value, Stock, e supplier_id são obrigatórios!
+2021-09-13T16:38:26.672Z [store-api.log] error PUT  - O supplier_id informado não existe.
+2021-09-13T16:38:32.194Z [store-api.log] error PUT  - O supplier_id informado não existe.
+2021-09-13T16:38:35.610Z [store-api.log] error PUT  - O supplier_id informado não existe.
+2021-09-13T16:38:38.640Z [store-api.log] info GET /product
+2021-09-13T16:38:52.837Z [store-api.log] error PUT  - O supplier_id informado não existe.
+2021-09-13T16:38:59.068Z [store-api.log] info GET /product
+2021-09-13T16:39:07.448Z [store-api.log] error PUT  - O supplier_id informado não existe.
+2021-09-13T16:39:12.168Z [store-api.log] info GET /product
+2021-09-13T16:39:23.306Z [store-api.log] error PUT  - Product ID,Name, Description, Value, Stock, e supplier_id são obrigatórios!
+2021-09-13T16:40:26.765Z [store-api.log] error PUT  - O supplier_id informado não existe.
+2021-09-13T16:40:36.568Z [store-api.log] info GET /supplier
+2021-09-13T16:40:44.701Z [store-api.log] error PUT  - O supplier_id informado não existe.
+2021-09-13T16:40:50.947Z [store-api.log] info GET /product
+2021-09-13T16:41:08.366Z [store-api.log] error PUT  - O supplier_id informado não existe.
+2021-09-13T16:41:51.459Z [store-api.log] error PUT  - Product ID,Name, Description, Value, Stock, e supplier_id são obrigatórios!
+2021-09-13T16:41:55.300Z [store-api.log] error PUT  - O supplier_id informado não existe.
+2021-09-13T16:42:00.940Z [store-api.log] info GET /supplier
+2021-09-13T16:42:05.626Z [store-api.log] info GET /product
+2021-09-13T16:42:15.873Z [store-api.log] error PUT  - O supplier_id informado não existe.
+2021-09-13T16:42:16.748Z [store-api.log] error PUT  - O supplier_id informado não existe.
+2021-09-13T16:42:16.962Z [store-api.log] error PUT  - O supplier_id informado não existe.
+2021-09-13T16:42:17.308Z [store-api.log] error PUT  - O supplier_id informado não existe.
+2021-09-13T16:42:17.518Z [store-api.log] error PUT  - O supplier_id informado não existe.
+2021-09-13T16:42:17.707Z [store-api.log] error PUT  - O supplier_id informado não existe.
+2021-09-13T16:42:17.947Z [store-api.log] error PUT  - O supplier_id informado não existe.
+2021-09-13T16:43:57.225Z [store-api.log] info PUT /product - {"productId":7,"name":"Notebok Acer Eletrônicos","description":"Notebook Acer n5 R78","value":"5000","stock":100,"supplierId":1}
+2021-09-13T16:44:02.468Z [store-api.log] info DELETE /products
+2021-09-13T16:44:08.733Z [store-api.log] info GET /product
+2021-09-13T16:44:17.325Z [store-api.log] error DELETE  - update or delete on table "products" violates foreign key constraint "fk_products" on table "sales"
+2021-09-13T16:47:23.943Z [store-api.log] error POST  - Name, Description, Value, Stock, e Supplier_id são obrigatórios!
+2021-09-13T16:47:31.499Z [store-api.log] error POST  - O supplier_id informado não existe.
+2021-09-13T16:48:57.225Z [store-api.log] error POST  - ProductRepository.insertProduct is not a function
+2021-09-13T16:50:37.298Z [store-api.log] info POST /product - {"productId":10,"name":"Teclado Gamer nerd","description":"Ele tem muita luzinha brilhante","value":"450","stock":14,"supplierId":1}
+2021-09-13T16:51:04.584Z [store-api.log] info POST /product - {"productId":11,"name":"Teclado Gamer nerd","description":"Ele tem muita luzinha brilhante","value":"450","stock":14,"supplierId":1}
+2021-09-13T16:51:20.593Z [store-api.log] error DELETE  - connect is not a function
+2021-09-13T16:52:19.109Z [store-api.log] error DELETE  - connect is not a function
+2021-09-13T16:53:49.582Z [store-api.log] info DELETE /products
+2021-09-13T16:58:24.089Z [store-api.log] info GET /client
+2021-09-13T16:58:42.631Z [store-api.log] info GET /product
+2021-09-13T16:58:53.226Z [store-api.log] error POST  - Value, Date, client_id, product_id são obrigatórios!
+2021-09-13T16:59:01.417Z [store-api.log] error POST  - O client_id Informado, não existe.O Product_id informado, não existe.
+2021-09-13T16:59:07.723Z [store-api.log] error POST  - O client_id Informado, não existe.O Product_id informado, não existe.
+2021-09-13T17:00:51.968Z [store-api.log] error POST  - column "saleId" of relation "sales" does not exist
+2021-09-13T17:02:25.756Z [store-api.log] error POST  - column "saleId" of relation "sales" does not exist
+2021-09-13T17:02:31.777Z [store-api.log] error POST  - column "saleId" of relation "sales" does not exist
+2021-09-13T17:03:18.596Z [store-api.log] error POST  - column "salesId" of relation "sales" does not exist
+2021-09-13T17:03:29.397Z [store-api.log] error POST  - column "salesId" of relation "sales" does not exist
+2021-09-13T17:05:14.370Z [store-api.log] error POST  - column "saleId" of relation "sales" does not exist
+2021-09-13T17:09:31.823Z [store-api.log] error POST  - column "saleId" of relation "sales" does not exist
+2021-09-13T17:09:58.071Z [store-api.log] error GET  - connect is not a function
+2021-09-13T17:10:08.141Z [store-api.log] error POST  - column "saleId" of relation "sales" does not exist
+2021-09-13T17:10:09.448Z [store-api.log] error POST  - column "saleId" of relation "sales" does not exist
+2021-09-13T17:13:28.342Z [store-api.log] info POST /sale - {"saleId":26,"value":"4520","date":"2021-01-01","clientId":25,"productId":10}
+2021-09-13T17:14:06.070Z [store-api.log] error POST  - column "saleId" of relation "sales" does not exist
+2021-09-13T17:14:34.797Z [store-api.log] error POST  - column "saleId" of relation "sales" does not exist
+2021-09-13T17:15:02.656Z [store-api.log] error POST  - column "saleId" of relation "sales" does not exist
+2021-09-13T17:15:24.325Z [store-api.log] error POST  - column "saleId" of relation "sales" does not exist
+2021-09-13T17:15:43.349Z [store-api.log] error POST  - column "saleId" of relation "sales" does not exist
+2021-09-13T17:16:57.767Z [store-api.log] error POST  - column "saleId" of relation "sales" does not exist
+2021-09-13T17:17:02.850Z [store-api.log] error POST  - column "saleId" of relation "sales" does not exist
+2021-09-13T17:17:17.618Z [store-api.log] info POST /sale - {"saleId":27,"value":"4520","date":"2021-01-01","clientId":25,"productId":10}
+2021-09-13T17:18:08.585Z [store-api.log] info POST /sale - {"saleId":28,"value":"4520","date":"2021-01-01","clientId":25,"productId":10}
+2021-09-13T17:18:23.342Z [store-api.log] info POST /sale - {"saleId":29,"value":"4520","date":"2021-01-01","clientId":25,"productId":10}
+2021-09-13T17:18:37.853Z [store-api.log] error POST  - column "saleId" of relation "sales" does not exist
+2021-09-13T17:20:05.372Z [store-api.log] error POST  - column "saleId" of relation "sales" does not exist
+2021-09-13T17:20:34.437Z [store-api.log] error POST  - column "saleId" of relation "sales" does not exist
+2021-09-13T17:20:57.166Z [store-api.log] error POST  - column "saleId" of relation "sales" does not exist
+2021-09-13T17:23:32.566Z [store-api.log] info POST /sale - {"saleId":30,"value":"4520","date":"2021-01-01","clientId":25,"productId":10}
+2021-09-13T17:23:57.063Z [store-api.log] info POST /sale - {"saleId":31,"value":"4520","date":"2021-01-01","clientId":25,"productId":10}
+2021-09-13T17:26:12.887Z [store-api.log] error GET  - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function findAll
+2021-09-13T17:26:20.115Z [store-api.log] error GET  - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function findAll
+2021-09-13T17:27:07.488Z [store-api.log] error GET  - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function findAll
+2021-09-13T17:28:11.105Z [store-api.log] info GET /sale
+2021-09-13T17:29:43.780Z [store-api.log] info GET /sale
+2021-09-13T17:30:47.209Z [store-api.log] info GET /sale
+2021-09-13T17:33:36.823Z [store-api.log] error GET  - The argument passed to findAll must be an options object, use findByPk if you wish to pass a single primary key value
+2021-09-13T17:33:49.567Z [store-api.log] info GET /sale
+2021-09-13T17:33:55.861Z [store-api.log] error GET  - The argument passed to findAll must be an options object, use findByPk if you wish to pass a single primary key value
+2021-09-13T17:34:21.807Z [store-api.log] info GET /sale
+2021-09-13T17:35:17.526Z [store-api.log] info GET /sale
+2021-09-13T17:35:30.585Z [store-api.log] info GET /sale
+2021-09-13T17:35:36.123Z [store-api.log] info GET /sale
+2021-09-13T17:35:43.914Z [store-api.log] info GET /sale
+2021-09-13T17:36:05.194Z [store-api.log] info GET /product
+2021-09-13T17:36:16.259Z [store-api.log] info POST /product - {"productId":12,"name":"Teclado Gamer nerd","description":"Ele tem muita luzinha brilhante","value":"450","stock":14,"supplierId":1}
+2021-09-13T17:36:19.115Z [store-api.log] info GET /product
+2021-09-13T17:36:40.091Z [store-api.log] info GET /sale
+2021-09-13T17:36:59.966Z [store-api.log] info GET /sale
+2021-09-13T17:37:24.121Z [store-api.log] info GET /sale
+2021-09-13T17:37:27.182Z [store-api.log] info GET /sale
+2021-09-13T17:37:31.892Z [store-api.log] info GET /sale
+2021-09-13T17:37:38.193Z [store-api.log] info GET /sale
+2021-09-13T17:39:28.693Z [store-api.log] error GET  - Sale.FindByPk is not a function
+2021-09-13T17:40:12.870Z [store-api.log] info GET /sales
+2021-09-13T17:42:09.389Z [store-api.log] info GET /sale
+2021-09-13T17:43:51.951Z [store-api.log] info GET /sale
+2021-09-13T17:44:12.449Z [store-api.log] info DELETE /sales
+2021-09-13T17:44:29.046Z [store-api.log] info GET /sale
+2021-09-13T17:48:48.691Z [store-api.log] info PUT /sale - [1]
+2021-09-13T17:49:37.136Z [store-api.log] info PUT /sale - {"saleId":7,"value":"3550","date":"2021-01-02","clientId":25,"productId":6}
+2021-09-13T17:50:09.239Z [store-api.log] info GET /client
+2021-09-13T17:50:17.955Z [store-api.log] info POST /client - {"clientId":27,"name":"Joaõnn","cpf":"23585112352","phone":"3138383636","email":"joão@gmail.com","adress":"Rua y, n 190"}
+2021-09-13T17:50:20.869Z [store-api.log] info GET /client
+2021-09-13T17:50:33.803Z [store-api.log] info PUT /sale - {"saleId":7,"value":"3550","date":"2021-01-02","clientId":27,"productId":6}
+2021-09-13T17:51:16.161Z [store-api.log] error DELETE  - Não é possivel excluir o produto, pois ele tem vendas
+2021-09-13T17:51:42.224Z [store-api.log] info POST /product - {"productId":13,"name":"Teclado Gamer nerd","description":"Ele tem muita luzinha brilhante","value":"450","stock":14,"supplierId":1}
+2021-09-13T17:51:50.546Z [store-api.log] error DELETE  - Não é possivel excluir o produto, pois ele tem vendas
+2021-09-13T17:51:59.956Z [store-api.log] error DELETE  - Não é possivel excluir o produto, pois ele tem vendas
+2021-09-13T17:52:46.189Z [store-api.log] info DELETE /products
+2021-09-13T17:52:52.562Z [store-api.log] info GET /product
+2021-09-13T17:52:57.990Z [store-api.log] info DELETE /products
+2021-09-13T17:53:01.440Z [store-api.log] info GET /product
+2021-09-13T17:53:08.071Z [store-api.log] info GET /sale
+2021-09-13T17:53:18.361Z [store-api.log] error DELETE  - Não é possivel excluir o produto, pois ele tem vendas
+2021-09-13T17:53:18.514Z [store-api.log] error DELETE  - Não é possivel excluir o produto, pois ele tem vendas
+2021-09-13T19:04:51.236Z [store-api.log] info GET /supplier
+2021-09-13T19:05:01.452Z [store-api.log] info GET /suppliers
+2021-09-13T19:05:04.901Z [store-api.log] info GET /suppliers
+2021-09-13T19:05:09.497Z [store-api.log] info GET /supplier
+2021-09-13T19:05:22.240Z [store-api.log] info POST /supplier - {"supplierId":6,"name":"Fornecedor Eletrônico J","cnpj":"23585188883","phone":"31383836123","email":"eletronica@gmail.com","adress":"Rua xyaz, n 10"}
+2021-09-13T19:05:27.561Z [store-api.log] info GET /supplier
+2021-09-13T19:13:13.019Z [store-api.log] info GET /sale
+2021-09-13T19:13:26.686Z [store-api.log] info GET /sale
+2021-09-13T19:13:31.863Z [store-api.log] info GET /sale
+2021-09-13T19:13:35.267Z [store-api.log] info GET /sale
+2021-09-13T19:13:37.614Z [store-api.log] info GET /sale
